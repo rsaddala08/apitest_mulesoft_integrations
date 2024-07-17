@@ -1,0 +1,17 @@
+{
+    "updateDate": "2023-04-11T15:28:04.351-05:00",
+    "userId": "AQP506",
+    "account": {
+        "systemId": "19536530",
+        "version": "46",
+        "recordType": "Individual",
+        "externalId": "0016C00000ngJYGQA2",
+        "household": {
+            "id": "0016C00000ngJYGQA2",
+            "externalId": "0016C00000ngJYGQA2"
+        },
+        "email": {
+            "records": null
+        }
+    }
+}

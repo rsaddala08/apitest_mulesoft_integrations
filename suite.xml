@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Mulesoft APIs Automation Suites">
+  <parameter name = "BatchRun" value="YES"/>
+  <suite-files>
+    <suite-file path="SuiteXMLs/CPP.xml"/>
+    <suite-file path="SuiteXMLs/CPE.xml"/>
+    <suite-file path="SuiteXMLs/ACCOUNT.xml"/>
+  </suite-files>
+</suite> <!-- Suite -->

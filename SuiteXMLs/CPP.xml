@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Contact Point Phone Test">
+    <classes>
+      <class name="testscripts.CPP.TC001_POST_AddNewCPPRecord"/>
+      <class name="testscripts.CPP.TC002_PUT_EditCPPRecord"/>
+      <class name="testscripts.CPP.TC003_DELETE_DeleteCPPRecord"/>
+      <!--<class name="testscripts.CPP.TS001_POST_AddMultipleCPPRecords"/>
+      <class name="testscripts.CPP.TS002_PUT_EditMultipleCPPRecord"/>
+      <class name="testscripts.CPP.TS003_DELETE_MultipleCPPRecords"/>
+      <class name="testscripts.CPP.TC01_SMOKE_POST_AddNewCPPRecord"/>
+      <class name="testscripts.CPP.TC02_SMOKE_PUT_EditCPPRecord"/>-->
+
+  </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

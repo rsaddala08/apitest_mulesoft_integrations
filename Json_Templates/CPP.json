@@ -1,0 +1,28 @@
+{
+    "userId": "AQP506",
+    "updateDate": "2023-04-17T10:28:35.058-05:00",
+    "account": {
+        "systemId": "19490919",
+        "externalId": "0017b000010wBc0919",
+        "version": "141",
+        "recordType": "Individual",
+        "household": {
+            "id": "0017b000010wBc0919",
+            "externalId": "0017b000010wBc0919"
+        },
+        "phone": {
+            "records": [
+                {
+                    "extension": null,
+                    "isPrimary": false,
+                    "phoneNumber": "4444444444",
+                    "specialInstructions": "Home Phone",
+                    "usage": "HOME",
+                    "comment": null,
+                    "id": "100",
+                    "updated": false
+                }
+            ]
+        }
+    }
+}

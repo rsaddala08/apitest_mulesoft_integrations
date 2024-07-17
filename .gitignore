@@ -1,0 +1,10 @@
+.classpath
+.project
+.settings
+Results
+target
+test-output
+.DS_Store
+spotify_generate_token
+.idea
+.~lock.*
